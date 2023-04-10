@@ -1,7 +1,7 @@
 // Gets the add button element from dom
 const addButton = document.getElementById('add');
 
-// Gets the subtract button element from DOM
+// Gets the subtract button element from dom
 const subtractButton = document.getElementById('subtract');
 
 
